@@ -1,0 +1,23 @@
+{
+  "name": "@storybook-test/storybook",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "storybook": "storybook dev -p 6006"
+  },
+  "dependencies": {
+    "@storybook-test/ui": "*",
+    "@mui/material": "^7.3.8",
+    "@emotion/react": "^11.14.0",
+    "@emotion/styled": "^11.14.0",
+    "react": "^19.2.0",
+    "react-dom": "^19.2.0"
+  },
+  "devDependencies": {
+    "storybook": "^10.2.8",
+    "@storybook/react-vite": "^10.2.8",
+    "@storybook/addon-docs": "^10.2.8",
+    "typescript": "^5.9.3",
+    "vite": "^6.0.0"
+  }
+}

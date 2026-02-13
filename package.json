@@ -1,0 +1,5 @@
+{
+  "name": "storybook-repro",
+  "private": true,
+  "workspaces": ["packages/*"]
+}
